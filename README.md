@@ -1,4 +1,4 @@
-# Enterprise Agentic Pipeline: Human-in-the-Loop (HITL) Operations 🚀
+# Enterprise Agentic Pipeline: Human-in-the-Loop (HITL) Operations
 
 ## About The Repository
 This repository contains a production-grade, web-ready Agentic AI pipeline built with **Next.js**, **TypeScript**, and **GPT-4o**. It serves as a robust architectural template for automating stateful, multi-step business workflows—specifically engineered for complex document extraction, data structuring, and operational compliance.

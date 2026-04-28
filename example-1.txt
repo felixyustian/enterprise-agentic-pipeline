@@ -1,0 +1,25 @@
+INVOICE: INV-2023-0891
+----------------------------------------
+Billed To:
+Acme Corporation
+123 Industrial Way, Sector 4
+
+From:
+Global Tech Supplies LLC
+4500 Silicon Blvd
+San Jose, CA 95131
+Tax ID: 99-8765432
+
+Date: October 24, 2023
+
+Items:
+1. Server Rack Mounts (x4) - $1,200.00
+2. Ethernet Cables Cat6 (x50) - $250.00
+3. Installation Services - $500.00
+
+Subtotal: $1,950.00
+Tax (8%): $156.00
+----------------------------------------
+TOTAL DUE: $2,106.00
+----------------------------------------
+Please pay within 30 days.

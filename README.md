@@ -76,3 +76,8 @@ enterprise-agentic-pipeline/
 * **Vector Database Integration:** Replace the mocked RAG retrieval with Pinecone or Qdrant for scalable, multi-tenant data indexing.
 * **Batch Processing Pipelines:** Implement `gpt-4o` batch APIs for high-volume, asynchronous, and cost-optimized nightly processing.
 * **Evaluation Framework:** Introduce a `jest` or `vitest` regression suite to benchmark agentic accuracy against hundreds of edge-case documents.
+
+## ⚖️ License & Copyright
+
+*   **Implementation Copyright:** © 2026 [Felix Yustian Setiono](https://linkedin.com/in/felixsetiono). The entire system architecture, API source code, and experimental analysis documents within this repository are the original intellectual property of the author.
+
